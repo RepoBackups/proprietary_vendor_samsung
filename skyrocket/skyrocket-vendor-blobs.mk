@@ -80,14 +80,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/skyrocket/proprietary/lib/librpc.so:system/lib/librpc.so \
 	vendor/samsung/skyrocket/proprietary/lib/hw/sensors.MSM8660_SURF.so:system/lib/hw/sensors.MSM8660_SURF.so \
 	vendor/samsung/skyrocket/proprietary/lib/libakm.so:system/lib/libakm.so \
-	vendor/samsung/skyrocket/proprietary/lib/hw/camera.vendor.msm8660.so:system/lib/hw/camera.vendor.msm8660.so \
-	vendor/samsung/skyrocket/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
-	vendor/samsung/skyrocket/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-	vendor/samsung/skyrocket/proprietary/lib/libs3cjpeg.so:system/lib/libs3cjpeg.so \
-	vendor/samsung/skyrocket/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
-	vendor/samsung/skyrocket/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
-	vendor/samsung/skyrocket/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
-	vendor/samsung/skyrocket/proprietary/lib/libmmstereo.so:system/lib/libmmstereo.so \
 	vendor/samsung/skyrocket/proprietary/lib/libdiag.so:system/lib/libdiag.so \
 	vendor/samsung/skyrocket/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
 	vendor/samsung/skyrocket/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \

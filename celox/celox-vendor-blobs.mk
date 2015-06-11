@@ -24,6 +24,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_COPY_FILES += \
+    vendor/samsung/celox/proprietary/lib/hw/camera.vendor.msm8660.so:system/lib/hw/camera.vendor.msm8660.so \
     vendor/samsung/celox/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/celox/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
     vendor/samsung/celox/proprietary/cameradata/RS_M5LS_O.bin:system/cameradata/RS_M5LS_O.bin \
@@ -31,6 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/celox/proprietary/lib/libcamera.so:system/lib/libcamera.so \
     vendor/samsung/celox/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/samsung/celox/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
+    vendor/samsung/celox/proprietary/lib/libs3cjpeg.so:system/lib/libs3cjpeg.so \
     vendor/samsung/celox/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/samsung/celox/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
     vendor/samsung/celox/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \

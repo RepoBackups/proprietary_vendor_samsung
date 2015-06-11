@@ -80,14 +80,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/exhilarate/proprietary/lib/librpc.so:system/lib/librpc.so \
 	vendor/samsung/exhilarate/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
 	vendor/samsung/exhilarate/proprietary/lib/libakm.so:system/lib/libakm.so \
-	vendor/samsung/exhilarate/proprietary/lib/hw/camera.vendor.msm8660.so:system/lib/hw/camera.vendor.msm8660.so \
-	vendor/samsung/exhilarate/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
-	vendor/samsung/exhilarate/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-	vendor/samsung/exhilarate/proprietary/lib/libs3cjpeg.so:system/lib/libs3cjpeg.so \
-	vendor/samsung/exhilarate/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
-	vendor/samsung/exhilarate/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
-	vendor/samsung/exhilarate/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
-	vendor/samsung/exhilarate/proprietary/lib/libmmstereo.so:system/lib/libmmstereo.so \
 	vendor/samsung/exhilarate/proprietary/lib/libdiag.so:system/lib/libdiag.so \
 	vendor/samsung/exhilarate/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
 	vendor/samsung/exhilarate/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \

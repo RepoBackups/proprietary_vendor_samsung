@@ -80,14 +80,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/hercules/proprietary/lib/librpc.so:system/lib/librpc.so \
 	vendor/samsung/hercules/proprietary/lib/hw/sensors.MSM8660_SURF.so:system/lib/hw/sensors.MSM8660_SURF.so \
 	vendor/samsung/hercules/proprietary/lib/libakm.so:system/lib/libakm.so \
-	vendor/samsung/hercules/proprietary/lib/hw/camera.vendor.msm8660.so:system/lib/hw/camera.vendor.msm8660.so \
-	vendor/samsung/hercules/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
-	vendor/samsung/hercules/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-	vendor/samsung/hercules/proprietary/lib/libs3cjpeg.so:system/lib/libs3cjpeg.so \
-	vendor/samsung/hercules/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
-	vendor/samsung/hercules/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
-	vendor/samsung/hercules/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
-	vendor/samsung/hercules/proprietary/lib/libmmstereo.so:system/lib/libmmstereo.so \
 	vendor/samsung/hercules/proprietary/lib/libdiag.so:system/lib/libdiag.so \
 	vendor/samsung/hercules/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
 	vendor/samsung/hercules/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
