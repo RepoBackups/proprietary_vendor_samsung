@@ -41,10 +41,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/celox/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so
 
-# CPU management
-PRODUCT_COPY_FILES += \
-    vendor/samsung/celox/proprietary/bin/mpdecision:system/bin/mpdecision
-
 # EGL
 PRODUCT_COPY_FILES += \
     vendor/samsung/celox/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
